@@ -6,8 +6,7 @@
 ---
 
 ## About Me  
-Passionate about creating clean, responsive, and user-friendly web applications.  
-Currently sharpening skills in Full Stack Development and exploring modern JavaScript frameworks.
+I’m a passionate full-stack developer and a Computer Science undergraduate, dedicated to crafting clean, efficient, and user-friendly web solutions. Currently, I’m diving deeper into React.js, Node.js, and other modern technologies to build scalable and impactful applications. I love learning new skills and continuously growing in the world of software development.
 
 ---
 
