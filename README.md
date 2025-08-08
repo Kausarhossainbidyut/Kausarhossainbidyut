@@ -42,6 +42,8 @@ I am a passionate web developer focused on building responsive and interactive w
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true)  
 
+## GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&hide_border=true&theme=radical)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Kausarhossainbidyut)  
 
 
