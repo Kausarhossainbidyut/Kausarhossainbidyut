@@ -2,13 +2,29 @@
 <a href="https://www.facebook.com/Kausarhossainbidyut">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFOiiCm0D3XWw/profile-displaybackgroundimage-shrink_350_1400/B56ZiFfsh8H0Ag-/0/1754586346805?e=1757548800&v=beta&t=RBp0fVpnm9pbe7ztoCWlH2ExyR4ZGM0Rf5aVmJ8oWYI" />
 </a>
-### Hi there 👋, I'm KAUSAR HOSSAIN BIDYUT
-#### web developer 
+# Md Kausar Hossain Bidyut
+### Frontend Developer | Web Developer | CSE Student
 
-Skills:  JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
+## About Me
+I am a passionate web developer focused on building responsive and interactive web applications. Currently exploring Next.js and working on tourism-related projects.
+
+---
+
+## Current Activities
+- Exploring Next.js framework.
+- Developing a tourism website.
+- Learning advanced React concepts.
+
+---
+
+## Skills
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kausarhossainbidyut)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kausarhossainbidyut)  
