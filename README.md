@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/gZjm8YvJ/upscalemedia-transformed.png)
 
 # Md Kausar Hossain Bidyut  
-### Frontend & Backend Developer | CSE Student | Web Enthusiast  
+### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js | CSE Undergraduate 
 
 ---
 
