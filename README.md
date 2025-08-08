@@ -1,5 +1,7 @@
 
-
+<a href="https://www.facebook.com/Kausarhossainbidyut">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFOiiCm0D3XWw/profile-displaybackgroundimage-shrink_350_1400/B56ZiFfsh8H0Ag-/0/1754586346805?e=1757548800&v=beta&t=RBp0fVpnm9pbe7ztoCWlH2ExyR4ZGM0Rf5aVmJ8oWYI" />
+</a>
 ### Hi there 👋, I'm KAUSAR HOSSAIN BIDYUT
 #### web developer 
 
