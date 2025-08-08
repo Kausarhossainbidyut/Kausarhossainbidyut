@@ -33,17 +33,12 @@ I am a passionate web developer focused on building responsive and interactive w
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
----
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kausarhossainbidyut)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kausarhossainbidyut)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kausarhossainbidyut)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true)  
+## Find me on  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kausarhossainbidyut)  
 
 ## GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&hide_border=true&theme=radical)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Kausarhossainbidyut)  
+
 
 
