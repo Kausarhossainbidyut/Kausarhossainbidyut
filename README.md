@@ -38,17 +38,11 @@ I’m a passionate full-stack developer and a Computer Science undergraduate, de
 
 ---
 
-## :mailbox: Reach me out
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kausarhossainbidyut)  
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khbidyut31)
 
-<br />
-
-<p align="center">
-  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/GitHub.png" alt="GitHub">](https://github.com/kausarhossainbidyut)
-  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" alt="LinkedIn">](https://www.linkedin.com/in/kausarhossainbidyut)
-  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png" alt="Twitter">](https://x.com/khbidyut31)
-</p>
-
-<br />
 
 ---
 
