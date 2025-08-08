@@ -1,9 +1,7 @@
-
-![Banner](https://i.ibb.co.com/gZjm8YvJ/upscalemedia-transformed.png)
+![Banner](https://i.ibb.co/gZjm8YvJ/upscalemedia-transformed.png)
 
 # Md Kausar Hossain Bidyut  
 ### Frontend & Backend Developer | CSE Student | Web Enthusiast  
-
 
 ---
 
@@ -50,7 +48,3 @@ Currently sharpening skills in Full Stack Development and exploring modern JavaS
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical)
-
-
-
-
