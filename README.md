@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/gZjm8YvJ/upscalemedia-transformed.png)
+![Banner](https://i.ibb.co/gZjm8YvJ/upscalemedia-transformed.png)
 
 # Md Kausar Hossain Bidyut  
 ### Aspiring Full Stack Developer | Exploring Next.js, TypeScript & Advanced Node.js | CSE Undergraduate 
