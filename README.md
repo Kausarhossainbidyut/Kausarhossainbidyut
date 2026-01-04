@@ -98,19 +98,12 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true&count_private=true&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kausarhossainbidyut&theme=radical" width="32%" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kausarhossainbidyut&theme=radical" width="32%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kausarhossainbidyut&theme=radical&hide_border=true" width="32%" /> </p> 
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausarhossainbidyut&layout=compact&theme=tokyonight" width="32%" />
-
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/Kausarhossainbidyut" width="32%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/Kausarhossainbidyut" alt="GitHub Contribution Chart" width="80%" />
+<p align="center"> 
+  <img src="https://ghchart.rshah.org/Kausarhossainbidyut" alt="GitHub Contribution Chart" width="80%" /> 
 </p>
 
 
