@@ -98,16 +98,9 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausarhossainbidyut&layout=compact&theme=radical" 
-    alt="Top Languages"
-    height="170"
-  />
+  <!-- Profile summary cards as alternative -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kausarhossainbidyut&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kausarhossainbidyut&theme=radical" alt="Top Languages" width="49%" />
 </p>
 
 
