@@ -89,9 +89,16 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 
 ## 🤝 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kausarhossainbidyut)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khbidyut31)
+<p align="center">
+  <!-- GitHub -->
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)
+
+  <!-- LinkedIn -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kausarhossainbidyut)
+
+  <!-- X / Twitter -->
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khbidyut31)
+</p>
 
 ---
 
