@@ -99,12 +99,12 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true&theme=radical" 
     alt="GitHub Stats"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausarhossainbidyut&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausarhossainbidyut&layout=compact&theme=radical" 
     alt="Top Languages"
     height="170"
   />
