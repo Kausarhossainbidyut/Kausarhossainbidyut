@@ -49,7 +49,6 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="48"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
   <img src="https://skillicons.dev/icons?i=express" height="48"/>
 </p>
