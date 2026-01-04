@@ -73,6 +73,20 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 
 ---
 
+## 🌱 Currently Learning & Exploring  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
+</p>
+
+> Actively learning modern tools and technologies to build scalable, production-ready applications.
+
+---
+
 ## 🤝 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausarhossainbidyut)
