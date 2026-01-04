@@ -39,8 +39,8 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 ### 🎨 CSS Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
-  <img src="https://skillicons.dev/icons?i=materialui" height="48"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="48"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="48"/>
 </p>
 
 ---
