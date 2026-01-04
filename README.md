@@ -97,8 +97,19 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 
 ## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kausarhossainbidyut&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kausarhossainbidyut&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausarhossainbidyut&layout=compact&theme=radical" 
+    alt="Top Languages"
+    height="170"
+  />
+</p>
+
 
 ---
 
