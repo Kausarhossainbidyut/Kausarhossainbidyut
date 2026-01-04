@@ -98,14 +98,14 @@ I enjoy transforming ideas into real-world solutions using clean code, best prac
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true&theme=radical&hide_border=true" width="32%" />
+  <!-- Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kausarhossainbidyut&show_icons=true&count_private=true&theme=tokyonight" width="32%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausarhossainbidyut&layout=compact&theme=radical&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kausarhossainbidyut&layout=compact&theme=tokyonight" width="32%" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kausarhossainbidyut&theme=radical&hide_border=true" width="32%" />
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/Kausarhossainbidyut" width="32%" />
 </p>
 
 <p align="center">
