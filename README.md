@@ -1,6 +1,5 @@
 ![Banner](https://i.ibb.co/gZjm8YvJ/upscalemedia-transformed.png)
 
-
 # Md Kausar Hossain Bidyut  
 ### Full Stack Web Developer (MERN) | CSE Undergraduate  
 **React • Next.js • Node.js • MongoDB • TypeScript (Learning)**
