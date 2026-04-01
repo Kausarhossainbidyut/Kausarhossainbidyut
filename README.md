@@ -3,7 +3,6 @@
 # Md Kausar Hossain Bidyut  
 ### Full Stack Web Developer (MERN) | CSE Undergraduate  
 **React • Next.js • Node.js • MongoDB • TypeScript (Learning)**
-
 ---
 
 
